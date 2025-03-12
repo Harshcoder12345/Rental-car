@@ -1,3 +1,4 @@
+
 import React from "react";
 import Navbar from "./component/Navbar";
 import Header from "./component/Header";
@@ -13,5 +14,3 @@ const App = () => {
     </div>
   );
 };
-
-export default App;
